@@ -12,3 +12,9 @@ console.log("login");
 
 const payment = "Integrated the payment gateway";
 console.log("payment");
+
+// integrated upi in branch
+
+const upi = "Intgerarted the upi"
+console.log(upi);
+
