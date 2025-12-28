@@ -15,6 +15,7 @@ function login(){
     console.log("Login button created");
 }
 
+<<<<<<< HEAD
 // gst 
 
 function calculateGST(){
@@ -40,5 +41,7 @@ function authentication(){
 }
 
 
+=======
+>>>>>>> parent of ab4bdf4 (third commit)
 
 
