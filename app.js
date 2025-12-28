@@ -33,6 +33,12 @@ function home(){
     console.log("home page added");
 }
 
+// authentication
+
+function authentication(){
+    console.log("2 factor authentication enabled");
+}
+
 
 
 
