@@ -27,6 +27,12 @@ function profit_loss(){
     console.log("profit calculated");
 }
 
+// home page 
+
+function home(){
+    console.log("home page added");
+}
+
 
 
 
