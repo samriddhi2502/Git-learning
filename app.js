@@ -21,5 +21,12 @@ function calculateGST(){
     console.log("GST added");
 }
 
+// profit_loss calculation
+
+function profit_loss(){
+    console.log("profit calculated");
+}
+
+
 
 
