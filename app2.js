@@ -7,3 +7,8 @@ console.log(button);
 
 const login = "Login page added"
 console.log("login");
+
+// add footer to website in main branch
+
+const footer = "Footer added"
+console.log("footer");
