@@ -15,9 +15,6 @@ function login(){
     console.log("Login button created");
 }
 
-<<<<<<< HEAD
-// gst 
-
 function calculateGST(){
     console.log("GST added");
 }
@@ -40,8 +37,10 @@ function authentication(){
     console.log("2 factor authentication enabled");
 }
 
+// policy
 
-=======
->>>>>>> parent of ab4bdf4 (third commit)
+function policy(){
+    console.log("Policy choosed");
+}
 
 
