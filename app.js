@@ -15,5 +15,11 @@ function login(){
     console.log("Login button created");
 }
 
+// gst 
+
+function calculateGST(){
+    console.log("GST added");
+}
+
 
 
