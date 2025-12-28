@@ -7,12 +7,6 @@ function update_balance(balance){
     balance+=value;
 }
 
-// login page 
-
-function login(){
-    console.log("Login button created");
-}
-
 function calculateGST(){
     console.log("GST added");
 }
@@ -41,4 +35,16 @@ function policy(){
     console.log("Policy choosed");
 }
 
+// branching (features )
 
+// 1st feature --> Plans
+
+function plans(){
+    console.log("plans");
+}
+
+// 2nd feature --> pricing
+
+function price(){
+    console.log("price added");
+}
